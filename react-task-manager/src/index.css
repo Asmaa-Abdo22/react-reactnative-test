@@ -1,0 +1,15 @@
+@import "tailwindcss";
+.low-priority {
+  @apply border-l-5 border-red-500;
+}
+
+.medium-priority {
+  @apply border-l-5 border-yellow-500;
+}
+
+.high-priority {
+  @apply  border-l-5 border-green-500;
+}
+.btn {
+  @apply cursor-pointer px-3 py-2 rounded-lg text-white text-sm transition;
+}
