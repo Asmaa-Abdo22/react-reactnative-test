@@ -16,6 +16,8 @@ const styles = StyleSheet.create({
     padding: 16,
     borderRadius: 16,
     marginBottom: 12,
+    width:"50%",
+    margin:"auto"
   },
   name: {
     color: "#fff",

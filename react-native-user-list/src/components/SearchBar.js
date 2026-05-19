@@ -19,5 +19,8 @@ const styles = StyleSheet.create({
     borderRadius: 12,
     color: "#fff",
     marginBottom: 16,
+    width:"75%",
+    margin:"auto",
+    marginBlock:7
   },
 });
